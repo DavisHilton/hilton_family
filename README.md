@@ -1,3 +1,3 @@
-# Hilton Famil Demo
+# Hilton Family Demo
 
-This is just a demo of Hilton famil Web page.
+This is just a demo of Hilton family Web page.
