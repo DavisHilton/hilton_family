@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+
+}
+li{
+    display: inline;
+    float:left;
+    padding: 10px;
+    margin: 10px 170px;
+    color:whitesmoke;
+    font-size: x-large;
+}
